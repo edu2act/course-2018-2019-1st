@@ -12,7 +12,7 @@
 |[WEB开发(二)](https://github.com/edu2act/course-web2/)|2017级|[基础课程](./基础课程/)||
 |[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/)|2017级|[基础课程](./基础课程/)||
 |[计算机组成原理](https://github.com/edu2act/course-computer-organization/)|2017级|[基础课程](./基础课程/)||
-|[Java面向对象程序设计](https://github.com/edu2act/course-java/)|2017级|[基础课程](./基础课程/)||
+|[Java面向对象程序设计](https://github.com/edu2act/course-javase/)|2017级|[基础课程](./基础课程/)||
 |[软件工程](https://github.com/edu2act/course-softwarprocess/)|2016级|[基础课程](./基础课程/)||
 |[JavaEE](https://github.com/edu2act/course-JavaEE/)|2016级|[Java与移动智能设备开发方向](./Java与移动智能设备开发方向/)||
 |[Android基础](https://github.com/edu2act/course-android/)|2016级|[Java与移动智能设备开发方向](./Java与移动智能设备开发方向/)||
