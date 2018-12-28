@@ -24,7 +24,7 @@
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/)|2016级|[Java与大数据分析](./Java与大数据分析/)||
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/)|2016级|[Java与大数据分析](./Java与大数据分析/)||
 |[Hibernate框架开发](https://github.com/edu2act/course-hibernate/)|2016级|[Java与大数据分析](./Java与大数据分析/)||
-|[混合应用开发](https://github.com/edu2act/course-hybrid-app-development/)|2016级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)||
+|[混合应用开发](https://github.com/edu2act/course-hybrid-app-development/tree/2018-2019-1st)|2016级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-hybrid-app-development/releases/tag/2018-2019-1st)|
 |[Node.js应用开发](https://github.com/edu2act/course-nodejs/)|2016级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)||
 |[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/)|2016级|[HTML5与移动互联网开发](./HTML5与移动互联网开发)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/)|2016级|[Java与移动智能设备开发方向](./Java与移动智能设备开发方向/)||

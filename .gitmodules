@@ -1,3 +1,6 @@
 [submodule "courses/基础课程/计算机导论"]
 	path = courses/基础课程/计算机导论
 	url = git@github.com:edu2act/course-computerIntroduction.git
+[submodule "courses/HTML5与移动互联网开发/混合应用开发"]
+	path = courses/HTML5与移动互联网开发/混合应用开发
+	url = git@github.com:edu2act/course-hybrid-app-development.git
