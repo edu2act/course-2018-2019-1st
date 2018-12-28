@@ -1,0 +1,3 @@
+[submodule "courses/基础课程/计算机导论"]
+	path = courses/基础课程/计算机导论
+	url = git@github.com:edu2act/course-computerIntroduction.git

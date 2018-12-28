@@ -6,7 +6,7 @@
 
 |课程名称|开设年级|所属方向|下载|
 |-------|-------|-------|-------|
-|[计算机导论](https://github.com/edu2act/course-computerIntroduction/)|2018级|[基础课程](./基础课程/)||
+|[计算机导论](https://github.com/edu2act/course-computerIntroduction/tree/2018-2019-1st)|2018级|[基础课程](./基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-computerIntroduction/releases/tag/2018-2019-1st)|
 |[信息素养与实践](https://github.com/edu2act/course-informationliteracy/)|2018级|[基础课程](./基础课程/)||
 |[数据结构](https://github.com/edu2act/course-datastructure/)|2017级|[基础课程](./基础课程/)||
 |[WEB开发(二)](https://github.com/edu2act/course-web2/)|2017级|[基础课程](./基础课程/)||
@@ -19,7 +19,7 @@
 |[开源自动化测试框架](https://github.com/edu2act/course-interface-testing/)|2016级|[软件测试](./软件测试)||
 |[Web测试](https://github.com/edu2act/course-web-system-testing)|2016级|[软件测试](./软件测试)||
 |分类算法|2016级|[Python与机器学习](./Python与机器学习)||
-|聚类算法|2016级|[Python与机器学习](./Python与机器学习)||
+|[聚类算法](https://github.com/edu2act/course-cluster)|2016级|[Python与机器学习](./Python与机器学习)||
 |[TensorFlow基础教程](https://github.com/edu2act/course-tensorflow)|2016级|[Python与机器学习](./Python与机器学习)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/)|2016级|[Java与大数据分析](./Java与大数据分析/)||
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/)|2016级|[Java与大数据分析](./Java与大数据分析/)||
