@@ -28,6 +28,6 @@
 |[Node.js应用开发](https://github.com/edu2act/course-nodejs/)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/tree/2018-2019-1st)|2016级|[Java与移动智能设备开发方向](./courses/Java与移动智能设备开发方向/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-1st)|
-|[Android基础编程](https://github.com/edu2act/course-android/)|2016级|[Java与移动智能设备开发方向](./courses/Java与移动智能设备开发方向/)||
+|[Android基础编程](https://github.com/edu2act/course-android/tree/2018-2019-1st)|2016级|[Java与移动智能设备开发方向](./courses/Java与移动智能设备开发方向/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-android/releases/tag/2018-2019-1st)|
 
 

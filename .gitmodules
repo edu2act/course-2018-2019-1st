@@ -10,3 +10,6 @@
 [submodule "courses/Java与大数据分析/JavaEE企业级开发"]
 	path = courses/Java与大数据分析/JavaEE企业级开发
 	url = git@github.com:edu2act/course-JavaEE.git
+[submodule "courses/Java与移动智能设备开发方向/Android基础编程"]
+	path = courses/Java与移动智能设备开发方向/Android基础编程
+	url = git@github.com:edu2act/course-android.git
