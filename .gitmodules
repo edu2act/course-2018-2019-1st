@@ -13,3 +13,6 @@
 [submodule "courses/Java与移动智能设备开发方向/Android基础编程"]
 	path = courses/Java与移动智能设备开发方向/Android基础编程
 	url = git@github.com:edu2act/course-android.git
+[submodule "courses/基础课程/WEB开发（二）"]
+	path = courses/基础课程/WEB开发（二）
+	url = git@github.com:edu2act/course-web2.git
