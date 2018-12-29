@@ -16,3 +16,6 @@
 [submodule "courses/基础课程/WEB开发（二）"]
 	path = courses/基础课程/WEB开发（二）
 	url = git@github.com:edu2act/course-web2.git
+[submodule "courses/Java与大数据分析/Spring框架介绍及应用"]
+	path = courses/Java与大数据分析/Spring框架介绍及应用
+	url = git@github.com:edu2act/course-spring.git

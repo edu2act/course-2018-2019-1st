@@ -22,7 +22,7 @@
 |[聚类算法](https://github.com/edu2act/course-cluster)|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |[TensorFlow基础教程](https://github.com/edu2act/course-tensorflow)|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-1st)||
-|[Spring框架介绍及应用](https://github.com/edu2act/course-spring/)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)||
+|[Spring框架介绍及应用](https://github.com/edu2act/course-spring/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-spring/releases/tag/2018-2019-1st)|
 |[Hibernate框架开发](https://github.com/edu2act/course-hibernate/)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)||
 |[混合应用开发](https://github.com/edu2act/course-hybrid-app-development/tree/2018-2019-1st)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-hybrid-app-development/releases/tag/2018-2019-1st)|
 |[Node.js应用开发](https://github.com/edu2act/course-nodejs/)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
