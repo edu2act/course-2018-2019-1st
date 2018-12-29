@@ -22,3 +22,6 @@
 [submodule "courses/Python与机器学习/聚类算法"]
 	path = courses/Python与机器学习/聚类算法
 	url = git@github.com:edu2act/course-cluster.git
+[submodule "courses/Java与大数据分析/Hibernate框架开发"]
+	path = courses/Java与大数据分析/Hibernate框架开发
+	url = git@github.com:edu2act/course-hibernate.git
