@@ -18,14 +18,14 @@
 |[接口测试](https://github.com/edu2act/course-web-driver/)|2016级|[软件测试](./courses/软件测试)||
 |[开源自动化测试框架](https://github.com/edu2act/course-interface-testing/)|2016级|[软件测试](./courses/软件测试)||
 |[Web测试](https://github.com/edu2act/course-web-system-testing)|2016级|[软件测试](./courses/软件测试)||
-|分类算法|2016级|[Python与机器学习](./courses/Python与机器学习)||
+|[分类算法](https://github.com/edu2act/course-classification)|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |[聚类算法](https://github.com/edu2act/course-cluster/tree/2018-2019-1st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-cluster/releases/tag/2018-2019-1st)|
 |[TensorFlow基础教程](https://github.com/edu2act/course-tensorflow)|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-1st)||
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-spring/releases/tag/2018-2019-1st)|
 |[Hibernate框架开发](https://github.com/edu2act/course-hibernate/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2018-2019-1st)|
 |[混合应用开发](https://github.com/edu2act/course-hybrid-app-development/tree/2018-2019-1st)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-hybrid-app-development/releases/tag/2018-2019-1st)|
-|[Node.js应用开发](https://github.com/edu2act/course-nodejs/)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
+|[Node.js应用开发](https://github.com/edu2act/course-nodejs/tree/2018-2019-1st)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-nodejs/releases/tag/2018-2019-1st)|
 |[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/tree/2018-2019-1st)|2016级|[Java与移动智能设备开发方向](./courses/Java与移动智能设备开发方向/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-1st)|
 |[Android基础编程](https://github.com/edu2act/course-android/tree/2018-2019-1st)|2016级|[Java与移动智能设备开发方向](./courses/Java与移动智能设备开发方向/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-android/releases/tag/2018-2019-1st)|

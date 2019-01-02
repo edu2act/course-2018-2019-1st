@@ -25,3 +25,6 @@
 [submodule "courses/Java与大数据分析/Hibernate框架开发"]
 	path = courses/Java与大数据分析/Hibernate框架开发
 	url = git@github.com:edu2act/course-hibernate.git
+[submodule "courses/HTML5与移动互联网开发/Node.js应用开发"]
+	path = courses/HTML5与移动互联网开发/Node.js应用开发
+	url = git@github.com:edu2act/course-nodejs.git
