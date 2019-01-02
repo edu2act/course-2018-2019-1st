@@ -31,3 +31,6 @@
 [submodule "courses/Python与机器学习/TensorFlow基础教程"]
 	path = courses/Python与机器学习/TensorFlow基础教程
 	url = git@github.com:edu2act/course-tensorflow.git
+[submodule "courses/Python与机器学习/分类算法"]
+	path = courses/Python与机器学习/分类算法
+	url = git@github.com:edu2act/course-classification.git
