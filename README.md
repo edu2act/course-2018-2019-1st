@@ -20,7 +20,7 @@
 |[Web测试](https://github.com/edu2act/course-web-system-testing)|2016级|[软件测试](./courses/软件测试)||
 |[分类算法](https://github.com/edu2act/course-classification)|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |[聚类算法](https://github.com/edu2act/course-cluster/tree/2018-2019-1st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-cluster/releases/tag/2018-2019-1st)|
-|[TensorFlow基础教程](https://github.com/edu2act/course-tensorflow)|2016级|[Python与机器学习](./courses/Python与机器学习)||
+|[TensorFlow基础教程](https://github.com/edu2act/course-tensorflow/tree/2018-2019-1st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-tensorflow/releases/tag/2018-2019-1st)|
 |[JavaEE企业级开发](https://github.com/edu2act/course-JavaEE/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-1st)||
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-spring/releases/tag/2018-2019-1st)|
 |[Hibernate框架开发](https://github.com/edu2act/course-hibernate/tree/2018-2019-1st)|2016级|[Java与大数据分析](./courses/Java与大数据分析/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-hibernate/releases/tag/2018-2019-1st)|

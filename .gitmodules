@@ -28,3 +28,6 @@
 [submodule "courses/HTML5与移动互联网开发/Node.js应用开发"]
 	path = courses/HTML5与移动互联网开发/Node.js应用开发
 	url = git@github.com:edu2act/course-nodejs.git
+[submodule "courses/Python与机器学习/TensorFlow基础教程"]
+	path = courses/Python与机器学习/TensorFlow基础教程
+	url = git@github.com:edu2act/course-tensorflow.git
