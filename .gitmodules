@@ -34,3 +34,6 @@
 [submodule "courses/Python与机器学习/分类算法"]
 	path = courses/Python与机器学习/分类算法
 	url = git@github.com:edu2act/course-classification.git
+[submodule "courses/基础课程/数据结构"]
+	path = courses/基础课程/数据结构
+	url = git@github.com:edu2act/course-datastructure.git
