@@ -12,7 +12,7 @@
 |[WEB开发(二)](https://github.com/edu2act/course-web2/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-web2/releases/tag/2018-2019-1st)|
 |[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/)|2017级|[基础课程](./courses/基础课程/)||
 |[计算机组成原理](https://github.com/edu2act/course-computer-organization/)|2017级|[基础课程](./courses/基础课程/)||
-|[Java面向对象程序设计](https://github.com/edu2act/course-javase/)|2017级|[基础课程](./courses/基础课程/)||
+|[Java面向对象程序设计](https://github.com/edu2act/course-javase/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-javase/releases/tag/2018-2019-1st)|
 |[软件工程](https://github.com/edu2act/course-softwarprocess/)|2016级|[基础课程](./courses/基础课程/)||
 |[Linux系统及程序设计](https://github.com/edu2act/course-linux-programming)|2016级|[基础课程](./courses/基础课程)||
 |[接口测试](https://github.com/edu2act/course-web-driver/)|2016级|[软件测试](./courses/软件测试)||

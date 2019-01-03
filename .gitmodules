@@ -37,3 +37,6 @@
 [submodule "courses/基础课程/数据结构"]
 	path = courses/基础课程/数据结构
 	url = git@github.com:edu2act/course-datastructure.git
+[submodule "courses/基础课程/Java面向对象程序设计"]
+	path = courses/基础课程/Java面向对象程序设计
+	url = git@github.com:edu2act/course-JavaSE.git
