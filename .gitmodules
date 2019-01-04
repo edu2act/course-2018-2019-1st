@@ -52,3 +52,6 @@
 [submodule "courses/软件测试/接口测试"]
 	path = courses/软件测试/接口测试
 	url = git@github.com:edu2act/course-interface-testing.git
+[submodule "courses/软件测试/开源自动化测试框架"]
+	path = courses/软件测试/开源自动化测试框架
+	url = git@github.com:edu2act/course-web-driver.git
