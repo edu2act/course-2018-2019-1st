@@ -64,3 +64,6 @@
 [submodule "courses/基础课程/计算机组成原理"]
 	path = courses/基础课程/计算机组成原理
 	url = git@github.com:edu2act/course-computer-organization.git
+[submodule "courses/基础课程/Linux系统及程序设计"]
+	path = courses/基础课程/Linux系统及程序设计
+	url = git@github.com:edu2act/course-linux-programming.git
