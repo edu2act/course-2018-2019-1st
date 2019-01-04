@@ -61,3 +61,6 @@
 [submodule "courses/基础课程/软件测试基础"]
 	path = courses/基础课程/软件测试基础
 	url = git@github.com:edu2act/course-foundation-software-tesing.git
+[submodule "courses/基础课程/计算机组成原理"]
+	path = courses/基础课程/计算机组成原理
+	url = git@github.com:edu2act/course-computer-organization.git

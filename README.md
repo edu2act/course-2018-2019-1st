@@ -11,7 +11,7 @@
 |[数据结构](https://github.com/edu2act/course-datastructure/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-datastructure/releases/tag/2018-2019-1st)|
 |[WEB开发(二)](https://github.com/edu2act/course-web2/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-web2/releases/tag/2018-2019-1st)|
 |[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-foundation-software-tesing/releases/tag/2018-2019-1st)|
-|[计算机组成原理](https://github.com/edu2act/course-computer-organization/)|2017级|[基础课程](./courses/基础课程/)||
+|[计算机组成原理](https://github.com/edu2act/course-computer-organization/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-computer-organization/releases/tag/2018-2019-1st)|
 |[Java面向对象程序设计](https://github.com/edu2act/course-javase/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-javase/releases/tag/2018-2019-1st)|
 |[软件工程](https://github.com/edu2act/course-software-process/tree/2018-2019-1st)|2016级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-software-process/releases/tag/2018-2019-1st)|
 |[Linux系统及程序设计](https://github.com/edu2act/course-linux-programming)|2016级|[基础课程](./courses/基础课程)||
