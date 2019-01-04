@@ -46,3 +46,6 @@
 [submodule "courses/HTML5与移动互联网开发/HTML5与CSS3前端开发"]
 	path = courses/HTML5与移动互联网开发/HTML5与CSS3前端开发
 	url = git@github.com:edu2act/course-HTML5-and-mobile-internet-development-fondation.git
+[submodule "courses/软件测试/Web系统测试"]
+	path = courses/软件测试/Web系统测试
+	url = git@github.com:edu2act/course-web-system-testing.git
