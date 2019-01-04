@@ -58,3 +58,6 @@
 [submodule "courses/基础课程/信息素养与实践"]
 	path = courses/基础课程/信息素养与实践
 	url = git@github.com:edu2act/course-informationliteracy.git
+[submodule "courses/基础课程/软件测试基础"]
+	path = courses/基础课程/软件测试基础
+	url = git@github.com:edu2act/course-foundation-software-tesing.git

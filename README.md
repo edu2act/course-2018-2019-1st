@@ -10,7 +10,7 @@
 |[信息素养与实践](https://github.com/edu2act/course-informationliteracy/tree/2018-2019-1st)|2018级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-informationliteracy/releases/tag/2018-2019-1st)|
 |[数据结构](https://github.com/edu2act/course-datastructure/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-datastructure/releases/tag/2018-2019-1st)|
 |[WEB开发(二)](https://github.com/edu2act/course-web2/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-web2/releases/tag/2018-2019-1st)|
-|[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/)|2017级|[基础课程](./courses/基础课程/)||
+|[软件测试基础](https://github.com/edu2act/course-foundation-software-tesing/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-foundation-software-tesing/releases/tag/2018-2019-1st)|
 |[计算机组成原理](https://github.com/edu2act/course-computer-organization/)|2017级|[基础课程](./courses/基础课程/)||
 |[Java面向对象程序设计](https://github.com/edu2act/course-javase/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-javase/releases/tag/2018-2019-1st)|
 |[软件工程](https://github.com/edu2act/course-software-process/tree/2018-2019-1st)|2016级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-software-process/releases/tag/2018-2019-1st)|
