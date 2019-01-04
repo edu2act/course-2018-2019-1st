@@ -15,8 +15,8 @@
 |[Java面向对象程序设计](https://github.com/edu2act/course-javase/tree/2018-2019-1st)|2017级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-javase/releases/tag/2018-2019-1st)|
 |[软件工程](https://github.com/edu2act/course-software-process/tree/2018-2019-1st)|2016级|[基础课程](./courses/基础课程/)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-software-process/releases/tag/2018-2019-1st)|
 |[Linux系统及程序设计](https://github.com/edu2act/course-linux-programming)|2016级|[基础课程](./courses/基础课程)||
-|[接口测试](https://github.com/edu2act/course-web-driver/)|2016级|[软件测试](./courses/软件测试)||
-|[开源自动化测试框架](https://github.com/edu2act/course-interface-testing/)|2016级|[软件测试](./courses/软件测试)||
+|[接口测试](https://github.com/edu2act/course-interface-testing/tree/2018-2019-1st)|2016级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-interface-testing/releases/tag/2018-2019-1st)|
+|[开源自动化测试框架](https://github.com/edu2act/course-web-driver/tree/2018-2019-1st)|2016级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-web-driver/releases/tag/2018-2019-1st)|
 |[Web系统测试](https://github.com/edu2act/course-web-system-testing/tree/2018-2019-1st)|2016级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-web-system-testing/releases/tag/2018-2019-1st)|
 |[分类算法](https://github.com/edu2act/course-classification/tree/2018-2019-1st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-classification/releases/tag/2018-2019-1st)|
 |[聚类算法](https://github.com/edu2act/course-cluster/tree/2018-2019-1st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2018--2019--1st-purple.svg)](https://github.com/edu2act/course-cluster/releases/tag/2018-2019-1st)|
